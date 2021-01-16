@@ -5,13 +5,15 @@
   A passionate Lua developer, GTK fan and Linux user from Venezuela
 </h3>
 
-Welcome to my profile, here (maybe) you can found some interesting things.
+<p align="center">
+  Welcome to my profile, here (maybe) you can found some interesting things.
+</p>
 
-<h4 align="left">
+<h4 align="center">
   Languages and Tools:
 </h4>
 
-<p align="left">
+<p align="center">
   <!-- Sublime Text -->
   <a href="https://www.sublimetext.com/3" target="_blank">
     <img
@@ -53,21 +55,23 @@ Welcome to my profile, here (maybe) you can found some interesting things.
   </a>
 </p>
 
-<h4 align="left">
+<h4 align="center">
   Some stats:
 </h4>
 
-<p align="left">
+<p align="center">
   <img
-    align="left"
+    align="center"
     alt="M1que4s Github stats"
     src="https://github-readme-stats.vercel.app/api?username=M1que4s"
   />
 </p>
 
-<p align="left">
+<span style="margin: 10px;"></span>
+
+<p align="center">
   <img
-    align="left"
+    align="center"
     alt="M1que4s top used languages"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=M1que4s&layout=compact"
   />

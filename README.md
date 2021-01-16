@@ -64,7 +64,7 @@
   <img
     align="center"
     alt="M1que4s Github stats"
-    src="https://github-readme-stats.vercel.app/api?username=M1que4s"
+    src="https://github-readme-stats.vercel.app/api?username=M1que4s&show_icons=true"
   />
 </p>
 

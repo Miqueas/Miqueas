@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Welcome to my profile, here (maybe) you can found some interesting things.
+  Welcome to my profile, here (maybe) you can found some interesting things in the pinned repositories.
 </p>
 
 <h4 align="center">
@@ -59,6 +59,7 @@
   Some stats:
 </h4>
 
+<!-- Github stats -->
 <p align="center">
   <img
     align="center"
@@ -69,6 +70,7 @@
 
 <span style="margin: 10px;"></span>
 
+<!-- Language stats -->
 <p align="center">
   <img
     align="center"

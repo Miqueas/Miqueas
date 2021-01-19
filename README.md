@@ -58,7 +58,7 @@
   <img
     align="center"
     alt="M1que4s Github stats"
-    src="https://github-readme-stats.vercel.app/api?username=M1que4s&show_icons=true&hide_border=true&bg_color=00000000&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=M1que4s&show_icons=true&hide_border=true&bg_color=00000000&title_color=848484&text_color=848484"
   />
 </p>
 
@@ -69,6 +69,6 @@
   <img
     align="center"
     alt="M1que4s top used languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=M1que4s&layout=compact&hide_border=true&bg_color=00000000&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=M1que4s&layout=compact&hide_border=true&bg_color=00000000&title_color=848484&text_color=848484"
   />
 </p>

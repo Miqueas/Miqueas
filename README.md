@@ -18,7 +18,7 @@
   <!-- Sublime Text -->
   <a href="https://www.sublimetext.com/3" target="_blank">
     <img
-      src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=222222"
+      src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF"
       alt="Sublime Text"
     />
   </a>
@@ -42,7 +42,31 @@
   <!-- Arch Linux -->
   <a href="https://archlinux.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=000000"
+      src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF"
+      alt="Lua"
+    />
+  </a>
+
+</p>
+
+<h4 align="center">
+  Social:
+</h4>
+
+<p align="center">
+
+  <!-- Telegram -->
+  <a href="https://t.me/Miqueas20" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram"
+      alt="Lua"
+    />
+  </a>
+
+  <!-- Mastodon -->
+  <a href="https://mas.to/@M1que4s" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=ffffff"
       alt="Lua"
     />
   </a>

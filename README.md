@@ -2,7 +2,7 @@
 
 ### Welcome to my profile
 
-I'm a young and passionate Lua developer, GTK fan and (Arch) Linux user from Venezuela. Here (maybe) you can found some interesting things in the pinned repositories.
+I'm a young and passionate Lua developer, GTK fan and (Arch) Linux user from Venezuela, but currently living in Colombia. Here (maybe) you can found some interesting things in the pinned repositories.
 
 #### Languages and Tools
 

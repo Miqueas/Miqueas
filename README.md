@@ -4,6 +4,10 @@
 
 I'm a young and passionate Lua developer, GTK fan and (Arch) Linux user from Venezuela, but currently living in Colombia. Here (maybe) you can found some interesting things in the pinned repositories.
 
+#### Github Gists
+
+I have some Gists that might interest you, check them out [here][GistsURL].
+
 #### Languages and Tools
 
 [![Sublime Text][SublimeTextBadge]][SublimeTextURL]
@@ -36,3 +40,4 @@ I'm a young and passionate Lua developer, GTK fan and (Arch) Linux user from Ven
 [MastodonURL]: https://mas.to/@M1que4s
 [GithubBadge]: https://github-readme-stats.vercel.app/api?username=M1que4s&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [LanguagesBadge]: https://github-readme-stats.vercel.app/api/top-langs?username=M1que4s&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
+[GistsURL]: https://gist.github.com/M1que4s

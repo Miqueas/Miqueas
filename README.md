@@ -13,6 +13,7 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [![Arch Linux][ArchLinuxBadge]][ArchLinuxURL]
 [![XFCE][XFCEBadge]][XFCEURL]
 [![Sublime Text][SublimeTextBadge]][SublimeTextURL]
+[![C][CBadge]][CURL]
 [![Lua][LuaBadge]][LuaURL]
 [![Go][GoBadge]][GoURL]
 [![Vala][ValaBadge]][ValaURL]
@@ -21,6 +22,12 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [![Github][GithubBadge]][GithubURL]
 [![Gitlab][GitlabBadge]][GitlabURL]
 [![Microsoft Edge][MSEdgeBadge]][MSEdgeURL]
+[![Inkscape][InkscapeBadge]][InkscapeURL]
+[![GIMP][GIMPBadge]][GIMPURL]
+[![Spotify][SpotifyBadge]][SpotifyURL]
+[![Deezer][DeezerBadge]][DeezerURL]
+[![SoundCloud][SoundCloudBadge]][SoundCloudURL]
+[![YouTube Music][YTMusicBadge]][YTMusicURL]
 
 #### Social
 
@@ -36,6 +43,8 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 
 [SublimeTextBadge]: https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF
 [SublimeTextURL]: https://www.sublimetext.com/3
+[CBadge]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=333333
+[CURL]: https://en.wikipedia.org/wiki/C_%28programming_language%29
 [LuaBadge]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua
 [LuaURL]: https://www.lua.org/
 [GoBadge]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF
@@ -56,6 +65,18 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [ArchLinuxURL]: https://archlinux.org/
 [XFCEBadge]: https://img.shields.io/badge/XFCE-2284F2?style=for-the-badge&logo=xfce&logoColor=FFFFFF
 [XFCEURL]: https://xfce.org/
+[InkscapeBadge]: https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape
+[InkscapeURL]: https://inkscape.org/
+[GIMPBadge]: https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp
+[GIMPURL]: https://www.gimp.org/
+[SpotifyBadge]: https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=FFFFFF
+[SpotifyURL]: https://www.spotify.com/
+[DeezerBadge]: https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=333333
+[DeezerURL]: https://www.deezer.com/
+[SoundCloudBadge]: https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=FFFFFF
+[SoundCloudURL]: https://www.soundcloud.com/
+[YTMusicBadge]: https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music
+[YTMusicURL]: https://music.youtube.com/
 [YahooBadge]: https://img.shields.io/badge/Yahoo!%20Mail-6001D2?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgcm9sZT0iaW1nIgogICB2aWV3Qm94PSIwIDAgMjQgMjQiCiAgIHZlcnNpb249IjEuMSIKICAgaWQ9InN2ZzYiCiAgIHNvZGlwb2RpOmRvY25hbWU9InlhaG9vLnN2ZyIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4wLjEgKDNiYzJlODEzZjUsIDIwMjAtMDktMDcpIj4KICA8bWV0YWRhdGEKICAgICBpZD0ibWV0YWRhdGExMiI+CiAgICA8cmRmOlJERj4KICAgICAgPGNjOldvcmsKICAgICAgICAgcmRmOmFib3V0PSIiPgogICAgICAgIDxkYzpmb3JtYXQ+aW1hZ2Uvc3ZnK3htbDwvZGM6Zm9ybWF0PgogICAgICAgIDxkYzp0eXBlCiAgICAgICAgICAgcmRmOnJlc291cmNlPSJodHRwOi8vcHVybC5vcmcvZGMvZGNtaXR5cGUvU3RpbGxJbWFnZSIgLz4KICAgICAgPC9jYzpXb3JrPgogICAgPC9yZGY6UkRGPgogIDwvbWV0YWRhdGE+CiAgPGRlZnMKICAgICBpZD0iZGVmczEwIiAvPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgICAgYm9yZGVyb3BhY2l0eT0iMSIKICAgICBvYmplY3R0b2xlcmFuY2U9IjEwIgogICAgIGdyaWR0b2xlcmFuY2U9IjEwIgogICAgIGd1aWRldG9sZXJhbmNlPSIxMCIKICAgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMCIKICAgICBpbmtzY2FwZTpwYWdlc2hhZG93PSIyIgogICAgIGlua3NjYXBlOndpbmRvdy13aWR0aD0iMTAyNCIKICAgICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSI1NzgiCiAgICAgaWQ9Im5hbWVkdmlldzgiCiAgICAgc2hvd2dyaWQ9ImZhbHNlIgogICAgIGlua3NjYXBlOnpvb209IjIuODQzMTU4NSIKICAgICBpbmtzY2FwZTpjeD0iMTIuNDczMzExIgogICAgIGlua3NjYXBlOmN5PSIyLjc3NTYwNTMiCiAgICAgaW5rc2NhcGU6d2luZG93LXg9Ii04IgogICAgIGlua3NjYXBlOndpbmRvdy15PSItOCIKICAgICBpbmtzY2FwZTp3aW5kb3ctbWF4aW1pemVkPSIxIgogICAgIGlua3NjYXBlOmN1cnJlbnQtbGF5ZXI9InN2ZzYiIC8+CiAgPHRpdGxlCiAgICAgaWQ9InRpdGxlMiI+WWFob28hIGljb248L3RpdGxlPgogIDxwYXRoCiAgICAgZD0iTTE4Ljg2IDEuNTZMMTQuMjcgMTEuODdIMTkuNEwyNCAxLjU2SDE4Ljg2TTAgNi43MUw1LjE1IDE4LjI3TDMuMyAyMi40NEg3LjgzTDE0LjY5IDYuNzFIMTAuMTlMNy4zOSAxMy40NEw0LjYyIDYuNzFIME0xNS42MiAxMi44N0MxMy45NSAxMi44NyAxMi43MSAxNC4xMiAxMi43MSAxNS41OEMxMi43MSAxNyAxMy45MSAxOC4xOSAxNS41IDE4LjE5QzE3LjE4IDE4LjE5IDE4LjQzIDE2Ljk2IDE4LjQzIDE1LjVDMTguNDMgMTQuMDMgMTcuMjMgMTIuODcgMTUuNjIgMTIuODdaIgogICAgIGlkPSJwYXRoNCIKICAgICBzdHlsZT0iZmlsbDojZmZmZmZmIiAvPgo8L3N2Zz4K
 [YahooURL]: mailto:miqueas2020@yahoo.com
 [TelegramBadge]: https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram

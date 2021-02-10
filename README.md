@@ -29,9 +29,9 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 
 #### Some stats:
 
-![Github Stats][GithubBadge]
+![Github Stats][GithubStats]
 
-![Languages][LanguagesBadge]
+![Languages][LanguagesStats]
 
 [SublimeTextBadge]: https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF
 [SublimeTextURL]: https://www.sublimetext.com/3
@@ -59,6 +59,6 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [TelegramURL]: https://t.me/Miqueas20
 [MastodonBadge]: https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=ffffff
 [MastodonURL]: https://mas.to/@M1que4s
-[GithubBadge]: https://github-readme-stats.vercel.app/api?username=M1que4s&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
-[LanguagesBadge]: https://github-readme-stats.vercel.app/api/top-langs?username=M1que4s&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
+[GithubStats]: https://github-readme-stats.vercel.app/api?username=M1que4s&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
+[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?username=M1que4s&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [GistsURL]: https://gist.github.com/M1que4s

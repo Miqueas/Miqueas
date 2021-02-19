@@ -75,5 +75,5 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [MastodonBadge]: https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=ffffff
 [MastodonURL]: https://mas.to/@M1que4s
 [GithubStats]: https://github-readme-stats.vercel.app/api?username=M1que4s&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
-[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch,M1que4s.github.io,RustBook,oub-remix&hide=css&username=M1que4s&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
+[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch,M1que4s.github.io,RustBook,oub-remix&hide=css&langs_count=10&username=M1que4s&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [GistsURL]: https://gist.github.com/M1que4s

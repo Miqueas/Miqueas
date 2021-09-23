@@ -33,6 +33,7 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [![Yahoo! Mail][YahooBadge]][YahooURL]
 [![Telegram][TelegramBadge]][TelegramURL]
 [![Mastodon][MastodonBadge]][MastodonURL]
+[![Twitter][TwitterBadge]][TwitterURL]
 
 #### Some stats:
 
@@ -80,6 +81,8 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [TelegramURL]: https://t.me/M1que4s
 [MastodonBadge]: https://img.shields.io/badge/Mastodon-3088D4?style=for-the-badge&logo=mastodon&logoColor=ffffff
 [MastodonURL]: https://mas.to/@M1que4s
+[TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff
+[TwitterURL]: https://twitter.com/M1que4s
 [GithubStats]: https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch,M1que4s.github.io,RustBook,oub-remix&hide=html,pug,css&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [GistsURL]: https://gist.github.com/Miqueas

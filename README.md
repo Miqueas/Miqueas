@@ -12,7 +12,6 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 
 [![XFCE][XFCEBadge]][XFCEURL]
 [![VS Code][VSCodeBadge]][VSCodeURL]
-[![Sublime Text][SublimeTextBadge]][SublimeTextURL]
 [![C][CBadge]][CURL]
 [![Lua][LuaBadge]][LuaURL]
 [![Go][GoBadge]][GoURL]
@@ -42,8 +41,6 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 
 [VSCodeBadge]: https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF
 [VSCodeURL]: https://code.visualstudio.com/
-[SublimeTextBadge]: https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF
-[SublimeTextURL]: https://www.sublimetext.com/3
 [CBadge]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=333333
 [CURL]: https://en.wikipedia.org/wiki/C_%28programming_language%29
 [LuaBadge]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua

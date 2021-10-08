@@ -39,6 +39,8 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 
 ![Languages][LanguagesStats]
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Miqueas&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&border=949494&stroke=949494&ring=94949400&fire=FCB200&currStreakNum=FCB200&sideNums=949494&currStreakLabel=FCB200&sideLabels=FCB200&dates=949494)](https://git.io/streak-stats)
+
 [VSCodeBadge]: https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF
 [VSCodeURL]: https://code.visualstudio.com/
 [CBadge]: https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=333333
@@ -78,5 +80,5 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff
 [TwitterURL]: https://twitter.com/M1que4s
 [GithubStats]: https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
-[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io,Github-REST-API-Example&hide=html,pug,css&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
+[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,pug,css,c%23,meson&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [GistsURL]: https://gist.github.com/Miqueas

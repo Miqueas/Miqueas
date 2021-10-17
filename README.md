@@ -80,5 +80,5 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff
 [TwitterURL]: https://twitter.com/M1que4s
 [GithubStats]: https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
-[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,pug,css,c%23,meson&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
+[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,pug,css,c%23,meson,moonscript&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [GistsURL]: https://gist.github.com/Miqueas

@@ -14,6 +14,7 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [![VS Code][VSCodeBadge]][VSCodeURL]
 [![C][CBadge]][CURL]
 [![Lua][LuaBadge]][LuaURL]
+[![Nim][NimBadge]][NimURL]
 [![Go][GoBadge]][GoURL]
 [![Vala][ValaBadge]][ValaURL]
 [![Python][PythonBadge]][PythonURL]
@@ -47,6 +48,8 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [CURL]: https://en.wikipedia.org/wiki/C_%28programming_language%29
 [LuaBadge]: https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua
 [LuaURL]: https://www.lua.org/
+[NimBadge]: https://img.shields.io/badge/Nim-FFE953?style=for-the-badge&logo=nim&logoColor=333333
+[NimURL]: https://nim-lang.org/
 [GoBadge]: https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=FFFFFF
 [GoURL]: https://golang.org
 [ValaBadge]: https://img.shields.io/badge/Vala-726397?style=for-the-badge&logo=GNOME&logoColor=FFFFFF

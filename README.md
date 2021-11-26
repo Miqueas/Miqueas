@@ -77,5 +77,5 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [MastodonURL]: https://mas.to/@M1que4s
 [TwitterBadge]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff
 [TwitterURL]: https://twitter.com/M1que4s
-[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,pug,css,c%23,meson,moonscript&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
+[LanguagesStats]: https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy&hide=html,css,c%23,meson,moonscript&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494
 [GistsURL]: https://gist.github.com/Miqueas

@@ -8,10 +8,8 @@ I'm a young and passionate Lua developer, GTK fan and Linux user from Venezuela,
 
 I have some Gists that might interest you, check them out [here][GistsURL].
 
-#### Languages and Tools
+#### Languages
 
-[![XFCE][XFCEBadge]][XFCEURL]
-[![VS Code][VSCodeBadge]][VSCodeURL]
 [![C][CBadge]][CURL]
 [![Lua][LuaBadge]][LuaURL]
 [![Nim][NimBadge]][NimURL]
@@ -19,6 +17,10 @@ I have some Gists that might interest you, check them out [here][GistsURL].
 [![Vala][ValaBadge]][ValaURL]
 [![Python][PythonBadge]][PythonURL]
 [![Ruby][RubyBadge]][RubyURL]
+
+#### Tools
+
+[![VS Code][VSCodeBadge]][VSCodeURL]
 [![GTK][GtkBadge]][GtkURL]
 [![Git][GitBadge]][GitURL]
 [![Github][GithubBadge]][GithubURL]

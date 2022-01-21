@@ -23,4 +23,4 @@ Check out the pinned things and [here](https://gist.github.com/Miqueas).
 
 ### Social
 
-Wanna talk or something? You can found me as @M1que4s in [Telegram](https://t.me/M1que4s), [Mastodon](https://mas.to/@M1que4s) and [Twitter](https://twitter.com/M1que4s). But, honestly, I'm more active in Telegram.
+Wanna talk or something? You can found me as @M1que4s in [Telegram](https://t.me/M1que4s), [Mastodon](https://mas.to/@M1que4s) and [Twitter](https://twitter.com/M1que4s). But, honestly, I'm more active in Telegram. I also have a (not so much interesting) website [here](https://miqueas.github.io).

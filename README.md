@@ -4,7 +4,7 @@ I'm a Linux user and GTK fan. I love to code in Lua and Nim, but I also code in 
 
 ### Gists
 
-Check out the pinned things and [here](https://gist.github.com/Miqueas).
+Check out the pinned things or go [here](https://gist.github.com/Miqueas).
 
 ### Projects
 

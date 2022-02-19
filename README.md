@@ -15,6 +15,7 @@ Check out the pinned things or go [here](https://gist.github.com/Miqueas).
   * [Github-REST-API-Examples](https://github.com/Miqueas/Github-REST-API-Examples) &ndash; _Examples of the Github REST API in various languages_
   * [C-GTK3-Examples](https://github.com/Miqueas/C-GTK3-Examples) &ndash; _Examples of GTK 3 in Lua_
   * [Lua-C-API](https://github.com/Miqueas/Lua-C-API) &ndash; _Small set of examples of the Lua C API_
+  * [LBW](https://github.com/Miqueas/LBW) &ndash; _Lua builds for Windows_
   * [TermColors](https://github.com/Miqueas/TermColors) &ndash; _Utility library to make colored output in terminal_
   * [Static](https://github.com/Miqueas/Static) &ndash; _Basic static typing support for Lua_
   * [NimNotes](https://github.com/Miqueas/NimNotes) &ndash; _Notes I wrote while learning Nim_
@@ -24,3 +25,7 @@ Check out the pinned things or go [here](https://gist.github.com/Miqueas).
 ### Social
 
 Wanna talk or something? You can found me as @M1que4s in [Telegram](https://t.me/M1que4s), [Mastodon](https://mas.to/@M1que4s) and [Twitter](https://twitter.com/M1que4s). But, honestly, I'm more active in Telegram. I also have a (not so much interesting) website [here](https://miqueas.github.io).
+
+### Language stats
+
+![](https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug,moonscript&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494)

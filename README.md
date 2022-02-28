@@ -8,7 +8,7 @@ Check out the pinned things or go [here](https://gist.github.com/Miqueas).
 
 ### Projects
 
-  * [TapeDeck](https://github.com/Miqueas/TapeDeck) &ndash; _\[WIP\] A modern, cross-platform music player with MPD support_
+  * [Tape Deck](https://github.com/Miqueas/TapeDeck) &ndash; _\[WIP\] A modern, cross-platform music player with MPD support_
   * [Lua-GTK3-Examples](https://github.com/Miqueas/Lua-GTK3-Examples) &ndash; _Examples of GTK 3 in Lua_
   * [Self](https://github.com/Miqueas/Self) &ndash; _OOP library for Lua_
   * [Logit](https://github.com/Miqueas/Logit) &ndash; _Loggin library for Lua_

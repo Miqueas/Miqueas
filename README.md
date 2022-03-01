@@ -20,7 +20,7 @@ Check out the pinned things or go [here](https://gist.github.com/Miqueas).
   * [Static](https://github.com/Miqueas/Static) &ndash; _Basic static typing support for Lua_
   * [NimNotes](https://github.com/Miqueas/NimNotes) &ndash; _Notes I wrote while learning Nim_
   * [LuvitExperiments](https://github.com/Miqueas/LuvitExperiments) &ndash; _Some code I wrote experimenting with Luvit_
-  * [SDLExperiments](https://github.com/Miqueas/SDLExperiments) &ndash; _Some code I wrote while learing SDL_
+  * [SDLExperiments](https://github.com/Miqueas/SDLExperiments) &ndash; _Some code I wrote while learning SDL_
 
 ### Social
 

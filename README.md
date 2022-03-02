@@ -16,7 +16,7 @@
 <!-- Bottom right thing -->
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<br>
+<!-- <br> -->
 
 <!-- 
 <details align="center">
@@ -30,7 +30,7 @@
     <strong>Projects</strong><br>
     <!-- Tape Deck -->
     <a href="https://github.com/Miqueas/TapeDeck" target="_blank">Tape Deck</a>
-    &ndash; [WIP] Moderm and cross-platform music player with MPD support.<br>
+    &ndash; [WIP] Moderm and cross-platform music player with MPD support<br>
     <!-- Lua GTK 3 Examples -->
     <a href="https://github.com/Miqueas/Lua-GTK3-Examples" target="_blank">Lua GTK 3 Examples</a>
       &ndash; GTK 3 code examples in Lua (with <a href="http://github.com/lgi-devs/lgi" target="_blank">LGI</a>)<br>

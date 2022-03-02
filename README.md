@@ -1,31 +1,62 @@
-# Hi, welcome to my profile
+<!-- From: https://github.com/owl4ce/owl4ce -->
 
-I'm a Linux user and GTK fan. I love to code in Lua and Nim, but I also code in C, Vala, Go and other languages.
+<!-- Top left thing -->
+<p align="left"><strong><samp>「</samp></strong></p>
 
-### Gists
+<!-- Profile -->
+<p align="center">
+  <samp><br>
+  <strong>Hi, I'm Miqueas!</strong><br>
+  <br>
+  Lua, Linux and GTK enthusiast<br>
+  Sometimes I code in C, Nim and others<br>
+  </samp><br>
+</p>
 
-Check out the pinned things or go [here](https://gist.github.com/Miqueas).
+<!-- Bottom right thing -->
+<p align="right"><strong><samp>」</samp></strong></p>
 
-### Projects
+<br>
 
-  * [Tape Deck](https://github.com/Miqueas/TapeDeck) &ndash; _\[WIP\] A modern, cross-platform music player with MPD support_
-  * [Lua-GTK3-Examples](https://github.com/Miqueas/Lua-GTK3-Examples) &ndash; _Examples of GTK 3 in Lua_
-  * [Self](https://github.com/Miqueas/Self) &ndash; _OOP library for Lua_
-  * [Logit](https://github.com/Miqueas/Logit) &ndash; _Loggin library for Lua_
-  * [Github-REST-API-Examples](https://github.com/Miqueas/Github-REST-API-Examples) &ndash; _Examples of the Github REST API in various languages_
-  * [C-GTK3-Examples](https://github.com/Miqueas/C-GTK3-Examples) &ndash; _Examples of GTK 3 in Lua_
-  * [Lua-C-API](https://github.com/Miqueas/Lua-C-API) &ndash; _Small set of examples of the Lua C API_
-  * [LBW](https://github.com/Miqueas/LBW) &ndash; _Lua builds for Windows_
-  * [TermColors](https://github.com/Miqueas/TermColors) &ndash; _Utility library to make colored output in terminal_
-  * [Static](https://github.com/Miqueas/Static) &ndash; _Basic static typing support for Lua_
-  * [NimNotes](https://github.com/Miqueas/NimNotes) &ndash; _Notes I wrote while learning Nim_
-  * [LuvitExperiments](https://github.com/Miqueas/LuvitExperiments) &ndash; _Some code I wrote experimenting with Luvit_
-  * [SDLExperiments](https://github.com/Miqueas/SDLExperiments) &ndash; _Some code I wrote while learning SDL_
+<!-- 
+<details align="center">
+  <summary><samp>Learn more</samp></summary>-->
 
-### Social
+<br>
 
-Wanna talk or something? You can found me as @M1que4s in [Telegram](https://t.me/M1que4s), [Mastodon](https://mas.to/@M1que4s) and [Twitter](https://twitter.com/M1que4s). But, honestly, I'm more active in Telegram. I also have a (not so much interesting) website [here](https://miqueas.github.io).
+<!-- Projects -->
+<p align="center">
+  <samp>
+    <strong>Projects</strong><br>
+    <!-- Tape Deck -->
+    <a href="https://github.com/Miqueas/TapeDeck" target="_blank">Tape Deck</a>
+    &ndash; [WIP] Moderm and cross-platform music player with MPD support.<br>
+    <!-- Lua GTK 3 Examples -->
+    <a href="https://github.com/Miqueas/Lua-GTK3-Examples" target="_blank">Lua GTK 3 Examples</a>
+      &ndash; GTK 3 code examples in Lua (with <a href="http://github.com/lgi-devs/lgi" target="_blank">LGI</a>)<br>
+    <!-- Github REST API Examples -->
+    <a href="https://github.com/Miqueas/Github-REST-API-ExamplesTapeDeck" target="_blank">Github REST API Examples</a>
+    &ndash; Basic example of the Github REST API in various languages<br>
+    <!-- Lua C API -->
+    <a href="https://github.com/Miqueas/Lua-C-API" target="_blank">Lua C API</a>
+    &ndash; Small set of code examples of the Lua C API<br>
+    <!-- Repos tab -->
+    <a href="https://github.com/Miqueas?tab=repositories">See more</a>
+  </samp>
+</p>
 
-### Language stats
+<br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug,moonscript&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494)
+<!-- Contact -->
+<p align="center">
+  <samp>
+    <strong>Contact</strong><br>
+    <a href="https://t.me/M1que4s" target="_blank">Telegram</a> &#9670;
+    <a href="https://matrix.to/#/@m1que4s:matrix.org">Matrix</a> &#9670;
+    <a href="https://mas.to/@M1que4s" target="_blank">Mastodon</a> &#9670;
+    <a href="https://twitter.com/M1que4s" target="_blank">Twitter</a> &#9670;
+    <a href="mailto:miqueas2020@yahoo.com" target="_blank">Email</a>
+  </samp>
+</p>
+
+<!--</details>-->

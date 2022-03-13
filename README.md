@@ -35,7 +35,7 @@
     <a href="https://github.com/Miqueas/Lua-GTK3-Examples" target="_blank">Lua GTK 3 Examples</a>
       &ndash; GTK 3 code examples in Lua (with <a href="http://github.com/lgi-devs/lgi" target="_blank">LGI</a>)<br>
     <!-- Github REST API Examples -->
-    <a href="https://github.com/Miqueas/Github-REST-API-ExamplesTapeDeck" target="_blank">Github REST API Examples</a>
+    <a href="https://github.com/Miqueas/Github-REST-API-Examples" target="_blank">Github REST API Examples</a>
     &ndash; Basic example of the Github REST API in various languages<br>
     <!-- Lua C API -->
     <a href="https://github.com/Miqueas/Lua-C-API" target="_blank">Lua C API</a>

@@ -31,8 +31,8 @@
     <!-- Github REST API Examples -->
     <a href="https://github.com/Miqueas/Github-REST-API-Examples" target="_blank">Github REST API Examples</a>
     &ndash; Basic example of the Github REST API in various languages<br>
-    <!-- Lua C API -->
-    <a href="https://github.com/Miqueas/Lua-C-API" target="_blank">Lua C API</a>
+    <!-- Lua C API Examples -->
+    <a href="https://github.com/Miqueas/Lua-C-API-Examples" target="_blank">Lua C API Examples</a>
     &ndash; Small set of code examples of the Lua C API<br>
     <!-- Repos tab -->
     <a href="https://github.com/Miqueas?tab=repositories">See more</a>

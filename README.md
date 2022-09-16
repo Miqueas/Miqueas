@@ -45,10 +45,9 @@
 <p align="center">
   <samp>
     <strong>Contact</strong><br>
-    <a href="https://t.me/M1que4s" target="_blank">Telegram</a> &#9670;
+    <a href="https://t.me/MiqueasDev" target="_blank">Telegram</a> &#9670;
     <a href="https://matrix.to/#/@m1que4s:matrix.org">Matrix</a> &#9670;
-    <a href="https://mas.to/@M1que4s" target="_blank">Mastodon</a> &#9670;
-    <a href="https://twitter.com/M1que4s" target="_blank">Twitter</a> &#9670;
+    <a href="https://twitter.com/MiqueasDev" target="_blank">Twitter</a> &#9670;
     <a href="mailto:miqueas2020@yahoo.com" target="_blank">Email</a>
   </samp>
 </p>

@@ -57,6 +57,6 @@
 <p align="center">
   <samp>
     <strong>Languages</strong><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug,moonscript,ruby,python,d&langs_count=10&username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
   </samp>
 </p>

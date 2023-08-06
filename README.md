@@ -6,11 +6,9 @@
 <!-- Profile -->
 <p align="center">
   <samp><br>
-  <strong>Hi, I'm Miqueas!</strong><br>
-  <br>
-  Lua, Linux and GTK enthusiast<br>
-  Sometimes I code in C, Nim and others<br>
-  </samp><br>
+    <strong>Hi!</strong><br>
+    <span>Welcome to my profile</span><br>
+  </samp>
 </p>
 
 <!-- Bottom right thing -->
@@ -18,24 +16,25 @@
 
 <br>
 
-<!-- Projects -->
 <p align="center">
   <samp>
-    <strong>Projects</strong><br>
+    <strong>Projects</strong><br>  
     <!-- Tape Deck -->
-    <a href="https://github.com/Miqueas/TapeDeck" target="_blank">Tape Deck</a>
-    &ndash; [WIP] Moderm and cross-platform music player with MPD support<br>
-    <!-- Lua GTK 3 Examples -->
-    <a href="https://github.com/Miqueas/Lua-GTK3-Examples" target="_blank">Lua GTK 3 Examples</a>
-      &ndash; GTK 3 code examples in Lua (with <a href="http://github.com/lgi-devs/lgi" target="_blank">LGI</a>)<br>
+    <a target="_blank" href="https://github.com/Miqueas/TapeDeck">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=TapeDeck&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
+    <!-- GTK Examples -->
+    <a target="_blank" href="https://github.com/Miqueas/GTK-Examples">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=GTK-Examples&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
     <!-- Github REST API Examples -->
-    <a href="https://github.com/Miqueas/Github-REST-API-Examples" target="_blank">Github REST API Examples</a>
-    &ndash; Basic example of the Github REST API in various languages<br>
-    <!-- Lua C API Examples -->
-    <a href="https://github.com/Miqueas/Lua-C-API-Examples" target="_blank">Lua C API Examples</a>
-    &ndash; Small set of code examples of the Lua C API<br>
-    <!-- Repos tab -->
-    <a href="https://github.com/Miqueas?tab=repositories">See more</a>
+    <a target="_blank" href="https://github.com/Miqueas/Github-REST-API-Examples">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Github-REST-API-Examples&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
+    <!-- Logit -->
+    <a target="_blank" href="https://github.com/Miqueas/Logit">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Logit&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
   </samp>
 </p>
 

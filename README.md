@@ -60,3 +60,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
   </samp>
 </p>
+
+<p align="center">
+  <samp>
+    <strong>Statistics</strong><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494">
+  </samp>
+</p>

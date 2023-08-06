@@ -35,6 +35,30 @@
     <a target="_blank" href="https://github.com/Miqueas/Logit">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Logit&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
     </a>
+    <!-- Self -->
+    <a target="_blank" href="https://github.com/Miqueas/Self">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Self&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
+    <!-- LearningNotes -->
+    <a target="_blank" href="https://github.com/Miqueas/LearningNotes">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=LearningNotes&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
+    <!-- Static -->
+    <a target="_blank" href="https://github.com/Miqueas/Static">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Static&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
+    <!-- Lua C API Examples -->
+    <a target="_blank" href="https://github.com/Miqueas/Lua-C-API-Examples">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Lua-C-API-Examples&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
+    <!-- dots -->
+    <a target="_blank" href="https://github.com/Miqueas/dots">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=dots&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
+    <!-- Ink -->
+    <a target="_blank" href="https://github.com/Miqueas/Ink">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Ink&hide_border=true&bg_color=00000000&title_color=949494&text_color=949494&icon_color=949494">
+    </a>
   </samp>
 </p>
 

@@ -110,15 +110,21 @@
 <p align="center">
   <samp>
     <strong>Languages</strong><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d#gh-light-mode-only">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&exclude_repo=instalarch-legacy,Miqueas.github.io&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&layout=compact&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
+      <img alt="(Languages badget)">
+    </picture>
   </samp>
 </p>
 
 <p align="center">
   <samp>
     <strong>Statistics</strong><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d#gh-light-mode-only">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
+      <img alt="(Statistics badget)">
+    </picture>
   </samp>
 </p>

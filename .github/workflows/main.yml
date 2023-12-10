@@ -20,6 +20,7 @@ jobs:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Build
         run: |
+          nimble refresh
           nimble install logit nimquery
           nim c -d:release -d:ssl getBadgets.nim
           ./getBadgets

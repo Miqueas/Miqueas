@@ -112,8 +112,8 @@
   <samp>
     <strong>Languages</strong><br>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=html,css,c%23,meson,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
       <img alt="(Languages badget)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact">
     </picture>
   </samp>

@@ -28,67 +28,76 @@
       </picture>
     </a>
     <!-- GTK Examples -->
-    <a target="_blank" href="https://github.com/Miqueas/GTK-Examples#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=GTK-Examples&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/GTK-Examples#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=GTK-Examples&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/GTK-Examples">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=GTK-Examples&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=GTK-Examples&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- Github REST API Examples -->
-    <a target="_blank" href="https://github.com/Miqueas/Github-REST-API-Examples#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Github-REST-API-Examples&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/Github-REST-API-Examples#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Github-REST-API-Examples&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/Github-REST-API-Examples">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Github-REST-API-Examples&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Github-REST-API-Examples&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- Logit -->
-    <a target="_blank" href="https://github.com/Miqueas/Logit#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Logit&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/Logit#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Logit&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/Logit">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Logit&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Logit&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- Self -->
-    <a target="_blank" href="https://github.com/Miqueas/Self#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Self&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/Self#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Self&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/Self">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Self&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Self&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- LearningNotes -->
-    <a target="_blank" href="https://github.com/Miqueas/LearningNotes#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=LearningNotes&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/LearningNotes#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=LearningNotes&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/LearningNotes">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=LearningNotes&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=LearningNotes&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- Static -->
-    <a target="_blank" href="https://github.com/Miqueas/Static#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Static&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/Static#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Static&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/Static">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Static&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Static&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- Lua C API Examples -->
-    <a target="_blank" href="https://github.com/Miqueas/Lua-C-API-Examples#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Lua-C-API-Examples&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/Lua-C-API-Examples#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Lua-C-API-Examples&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/Lua-C-API-Examples">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Lua-C-API-Examples&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Lua-C-API-Examples&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- dots -->
-    <a target="_blank" href="https://github.com/Miqueas/dots#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=dots&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/dots#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=dots&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/dots">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=dots&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=dots&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
     <!-- Ink -->
-    <a target="_blank" href="https://github.com/Miqueas/Ink#gh-dark-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Ink&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-    </a>
-    <a target="_blank" href="https://github.com/Miqueas/Ink#gh-light-mode-only">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Ink&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+    <a target="_blank" href="https://github.com/Miqueas/Ink">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Ink&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=Ink&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <img alt="(GTK-Examples repo badget)">
+      </picture>
     </a>
   </samp>
 </p>
@@ -114,7 +123,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile,html,go,css,c%23,c%2b%2b,meson,cmake,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile,html,go,css,c%23,c%2b%2b,meson,cmake,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
-      <img alt="(Languages badget)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact">
+      <img alt="(Languages badget)">
     </picture>
   </samp>
 </p>
@@ -125,7 +134,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=Miqueas&show_icons=true&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
-      <img alt="(Statistics badget)" src="https://github-readme-stats.vercel.app/api/?username=Miqueas&show_icons=true">
+      <img alt="(Statistics badget)">
     </picture>
   </samp>
 </p>

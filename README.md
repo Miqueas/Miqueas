@@ -112,9 +112,9 @@
   <samp>
     <strong>Languages</strong><br>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=pie&hide=makefile,html,go,css,c%23,c%2b%2b,meson,cmake,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=pie&hide=makefile,html,go,css,c%23,c%2b%2b,meson,cmake,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
-      <img alt="(Languages badget)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=pie">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile,html,go,css,c%23,c%2b%2b,meson,cmake,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile,html,go,css,c%23,c%2b%2b,meson,cmake,dockerfile,shell,nsis,pug&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
+      <img alt="(Languages badget)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact">
     </picture>
   </samp>
 </p>

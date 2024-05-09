@@ -84,10 +84,10 @@
       </picture>
     </a>
     <!-- dots -->
-    <a target="_blank" href="https://github.com/Miqueas/dots">
+    <a target="_blank" href="https://github.com/Miqueas/JsProjects">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=dots&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=dots&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=JsProjects&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&icon_color=fafafa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Miqueas&repo=JsProjects&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&icon_color=16161d">
         <img alt="(GTK-Examples repo badget)">
       </picture>
     </a>
@@ -121,8 +121,8 @@
   <samp>
     <strong>Languages</strong><br>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile%2chtml%2cgo%2ccss%2cc%23%2cc%2b%2b%2cmeson%2ccmake%2cdockerfile%2cshell%2cnsis%2cpug&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile%2chtml%2cgo%2ccss%2cc%23%2cc%2b%2b%2cmeson%2ccmake%2cdockerfile%2cshell%2cnsis%2cpug&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile%2chtml%2cgo%2ccss%2cc%23%2cc%2b%2b%2cmeson%2ccmake%2cdockerfile%2cshell%2cnsis%2cpug&hide_border=true&bg_color=00000000&title_color=fafafa&text_color=fafafa&langs_count=10">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Miqueas&layout=compact&hide=makefile%2chtml%2cgo%2ccss%2cc%23%2cc%2b%2b%2cmeson%2ccmake%2cdockerfile%2cshell%2cnsis%2cpug&hide_border=true&bg_color=00000000&title_color=16161d&text_color=16161d&langs_count=10">
       <img alt="(Languages badget)">
     </picture>
   </samp>

@@ -7,6 +7,8 @@
 <p align="center">
   <samp><br>
     <strong>Hi!</strong><br>
+    <span>I'm a self-taught programmer who loves tech and computers</span><br>
+    <span>Flutter developer with 2 years of experience</span><br>
     <span>Welcome to my profile</span><br>
   </samp>
 </p>
